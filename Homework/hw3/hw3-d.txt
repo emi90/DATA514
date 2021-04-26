@@ -1,0 +1,9 @@
+The DBMS that we use in this assignment is running somewhere in one of Microsoft's data centers. 
+Comment on your experience using this DBMS cloud service. What do you think about the idea of offering a DBMS as a service in a public cloud?
+
+
+
+Several years ago, I worked at an asset management firm whose founders/owners were deeply suspicious of the government, mega-banks, 'Big Tech', etc., and as a result, insisted on having physical servers and their database of investment ideas, records, history, etc (arguably the most valuable intangible asset in their business) hosted in the basement of some developer in Arizona. 
+Though this would presumably lessen the risk of third parties stealing their data, it also meant that the continuity plans required by pension fund clients had to include steps such as having a backup server at Boss A's house in the event of an earthquake and loss of access to the office. 
+I do recognize that security risk is a genuine concern (and obviously a large segment of this industry is devoted just to security), and even though there had never been an emergency where employees had to gather at Boss A's residence (though I quit long before the pandemic so I am not sure what protocol they followed), I find that my experience so far with a cloud service has been largely seamless, and the trade-off is a net positive, especially as the actual physical burden is lifted off the client.
+Perhaps with a large enough client, this trade off becomes less obvious? I do not have experience working with large employers, so I cannot speak to this.
